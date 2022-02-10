@@ -1,0 +1,13 @@
+/Users/leslie.yi/Projects/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/Users/leslie.yi/Projects/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/Users/leslie.yi/Projects/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/Users/leslie.yi/Projects/Strings/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/Users/leslie.yi/Projects/Strings/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache
